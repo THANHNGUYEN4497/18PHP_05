@@ -1,0 +1,15 @@
+*{margin:0;padding:0; }
+body{
+	padding: 10px 0;
+}
+.thumbnail{
+	margin-left: 5%;
+}
+@media only screen and (max-width: 786px){
+	.thumbnail{
+	margin-left: 0%;
+}
+}
+ 
+
+ 
